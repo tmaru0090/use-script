@@ -6,3 +6,6 @@ git subtree add --prefix=use-scripts/allmk/ git@github.com:tmaru0090/allmk-rs.gi
 
 git subtree add --prefix=use-scripts/git-keep-touch/ git@github.com:tmaru0090/git-keep-touch.git master --squash
 
+
+git subtree add --prefix=use-scripts/output-envlist/ git@github.com:tmaru0090/output-envlist-rs.git master --squash
+
