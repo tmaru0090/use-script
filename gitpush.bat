@@ -1,4 +1,8 @@
 git add .
 git commit -m Update
+gitsubadd
 gitsubpull
-git push origin master
+goto :end
+:end
+	git push origin master
+	git push origin master
